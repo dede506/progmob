@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    
+    <string-array name="Club_sepakbola">
+        <item>Manchester United</item>
+        <item>Manchester City</item>
+        <item>Real Madrid</item>
+        <item>Barcelona</item>
+        <item>Bali United</item>
+        <item>Persib Bandung</item>
+        <item>Persija</item>
+        <item>Persipura</item>
+        <item>Arsenal</item>
+        <item>AC Milan</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>
+            Pelatih : Ole gunnar soljaer , Markas : old trafford
+        </item>
+        <item>
+            Pelatih: Pep guardiola , Markas : Etihad stadium
+        </item>
+        <item>
+            Pelatih : Zinedine Zidane, Markas : Santiago Bernabéu
+        </item>
+        <item>
+            Pelatih : Ronald Koeman, Markas : Camp Nou
+        </item>
+        <item>
+            Pelatih : Stefanno Cugurra , Markas : Kapten I wayan Dipta
+        </item>
+        <item>
+            Pelatih : Robert Rene Alberts , Markas : Si Jalak Harupat
+        </item>
+        <item>
+             Pelatih : Sudirman , Markas : Gelora Bungkarno
+        </item>
+        <item>
+             Pelatih : Jacksen Tiago , Markas : Mandala
+        </item>
+        <item>
+             Pelatih : Mikel Arteta , Markas : Emirates stadium
+        </item>
+        <item>
+             Pelatih : Stefano Pioli , Markas : San Siro
+        </item>
+    </string-array>
+</resources>
